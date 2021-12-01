@@ -33,7 +33,7 @@ handler.all = async function (m, { isBlocked }) {
 └────
 
 https://github.com/DEVILSER/Ammu
-`.trim(), '© Ammu', ' Bot Owner', ',owner', m)
+`.trim(), '© Ammu', ' Owner', ',owner', m)
     }
 
         // ketika ada yang invite/kirim link grup di chat pribadi
@@ -41,7 +41,7 @@ https://github.com/DEVILSER/Ammu
             this.sendButton(m.chat, `┌〔 Invite Bots to Group 〕
 .kick
     https://github.com/DEVILSER/Ammu
-    `.trim(), '© Ammu', ' Bot Owner', ',owner', m)
+    `.trim(), '© Ammu', ' Owner', ',owner', m)
         }
 
     // backup db
