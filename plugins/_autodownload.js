@@ -100,7 +100,7 @@ handler.all = async function (m, { isPrems }) {
 *Audio File Size:* ${filesizeF}
 *Video File Sizeo:* ${yt2.filesizeF}
 *y2mate servers:* ${usedServer}
-`.trim(), watermark, 'Audio', `.yta ${vid.url}`, 'Video', `.yt ${vid.url}`)
+`.trim(), watermark, 'ᴀᴜᴅɪᴏ🔉', `.yta ${vid.url}`, 'ᴠɪᴅᴇᴏ🎥', `.yt ${vid.url}`)
     }
 
 }
