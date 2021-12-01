@@ -32,7 +32,7 @@ handler.all = async function (m, { isBlocked }) {
 ├ .join Group Link
 └────
 
-https://github.com/SudoAnirudh/E-V-A
+https://github.com/DEVILSER/Ammu
 `.trim(), '© Ammu', ' Bot Owner', ',owner', m)
     }
 
@@ -40,7 +40,7 @@ https://github.com/SudoAnirudh/E-V-A
         if ((m.mtype === 'groupInviteMessage' || m.text.startsWith('https://chat') || m.text.startsWith('Open this link')) && !m.isBaileys && !m.isGroup) {
             this.sendButton(m.chat, `┌〔 Invite Bots to Group 〕
 .kick
-    https://github.com/SudoAnirudh/E-V-A
+    https://github.com/DEVILSER/Ammu
     `.trim(), '© Ammu', ' Bot Owner', ',owner', m)
         }
 
